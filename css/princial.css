@@ -1,5 +1,5 @@
 .calc_simples{
-    background-color: rgb(148, 26, 26);
+    background-color: rgb(175, 114, 91);
     padding: 5px;
     width: 200px;
     border-radius: 5px;
@@ -10,7 +10,7 @@
 }
 #resultado {
     background-color: black;
-    color: rgb(252, 252, 252);
+    color: yellow;
 }
 .teclas {
     padding: 5px;
@@ -22,5 +22,5 @@ button {
     margin: 2px;
 }
 #igual {
-    background-color: rgb(255, 255, 255);
+    background-color: tomato;
 }
